@@ -1,0 +1,5 @@
+type: pages
+headline: Articles
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: note
+empty: No articles yet

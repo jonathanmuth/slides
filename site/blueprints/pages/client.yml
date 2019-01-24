@@ -1,0 +1,38 @@
+title: Client
+
+columns:
+  - width: 3/4
+    sections:
+      projects:
+        extends: sections/projects
+        headline: Projects
+  - width: 1/4
+    sections:
+      meta:
+        type: fields
+        width: 1/3
+        fields:
+          name:
+            label: Company Name
+            type: text
+          street:
+            label: Street
+            type: text
+            width: 2/3
+          number:
+            label: House Number
+            type: number
+            width: 1/3
+          zipcode:
+            label: ZIP code
+            type: number
+            width: 1/3
+          city:
+            label: Stadt
+            type: text
+            width: 2/3
+          clientlogo:
+            type: files
+            label: Company Logo
+            max: 1
+

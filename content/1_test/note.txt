@@ -1,0 +1,37 @@
+Title: Test
+
+----
+
+Tags: Test
+
+----
+
+Date: 2019-01-11
+
+----
+
+Text: 
+
+Der Zettelkasten von Niklas Luhmann soll als empirisches Beispiel dienen. An einem Ausschnitt aus den knapp 30.000 Zetteln gilt es zu zeigen, wie ein Notationssystem neue Ideen produziert – denn zwischen Relationen und Differenzen entstehen alternative Beobachtungsperspektiven.``
+
+Luhmann wollte sich mit seinem Zettelkasten *“im System der Notizen einen kompetenten Kommunikationspartner […] schaffen.”*[^(cite: luhmann1992 page: 222)] Dies sei allerdings nur dann möglich, wenn *“die Partner [Zettelkasten und Eintragender] sich wechselseitig überraschen können.”*[^(cite: luhmann1992 page: 222)]. Um Überraschungen zu provozieren, regt Luhmann den Einbau von *Zufall ins System* an. Im besten Fall (card:zufällig autoid:02b68117081c9c7918772cc7587152ae) ist, aus der Perspektive des Zettelkastens der Zugriff auf seinen Bestand und aus Perspektive des Eintragenden die Antwort überraschend. Wenn Zeichen auf Papier an sich schon als *intelligent machinery*[^(cite:siegert2003 page: 173-174 type: Vergleiche:) ] bezeichnet werden können, darf man dem Zettelkasten unterstellen er sei noch mehr. Immerhin wird Luhmanns Zettelkasten von Philipp Felsch als vermutlich “größte nicht-menschliche Intelligenz unserer Gegenwart” erhoben.[^Vegleiche dazu diesen Tweet von @FJ_Murau: (external: 670375173854470144 link: https://twitter.com/FJ_Murau/status/670375173854470144)]
+
+Wenngleich immer nur ein kleiner Bestandteil der im Zettelkasten enthaltenen Notizen aktiv gebraucht wird[^Siehe hierzu auch Luhmann: *“Eine Notiz, die an dieses Netz nicht angeschlossen ist, geht im Zettelkasten verloren, wird vom Zettelkasten vergessen.”* (cite: luhmann1992 page: 225)], so enthält er doch eine Historie aller Gedanken, mit denen er gefüttert wurde. Es ist gerade der Moment, in dem Zettel, die schon lange als vergessen galten, wieder auf den Schreibtisch des Eintragenden finden, der die Arbeit mit dem Zettelkasten so reizvoll macht.
+
+Da der Zettelkasten über eine rein formale Stellordnung verfügt, sagt die Signatur der einzelnen Notizen nicht unbedingt etwas über ihren Entstehungszeitpunkt aus. Man kann alleine darauf schließen, dass der vorherige Zettel auf selber Signaturebene vor dem aktuellen Zettel erstellt wurde und die Zettel eine Ebene *darunter* nachträglich entstanden sind. Johannes F.K. Schmidt betont in einer Fußnote, dass “allenfalls die Handschrift eine ungefähre zeitliche Einordnung”[^(cite:schmidt2013 page: 174)] der einzelnen Zettel in Luhmanns Zettelkasten möglich macht. Bei einem getippten Zettelkasten wäre auch dies unmöglich. Hier kann nur die (card: Versionskontrolle autoid: 0ee55a61fc52adb320d21370751c2805) Abhilfe schaffen.
+
+Lose Enden und Sackgassen sind gewollt. Denn auch eine Anfrage, die ins Leere geht, weiß unter gewissen Umständen zu überraschen – weißt sie doch auf ein noch nicht erschlossenes Themengebiet hin, von dem man vieleicht gar nichts wusste.
+
+----
+
+Related: 
+
+- test-2
+
+----
+
+Autoid: t5p28jhp
+
+----
+
+Pages: 

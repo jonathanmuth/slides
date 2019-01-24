@@ -1,0 +1,9 @@
+title: Error
+preset: page
+unlisted: true
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
+

@@ -1,0 +1,11 @@
+type: pages
+headline: Clients
+template: client
+size: tiny
+layout: cards
+info: "{{ page.date.toDate('d.m.Y') }}"
+empty: No articles yet
+image:
+  query: page.clientlogo.toFile
+  cover: true
+  ratio: 1/1

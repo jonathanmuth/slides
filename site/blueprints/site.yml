@@ -1,0 +1,7 @@
+title: Site
+unlisted: true
+
+sections:
+  clients:
+    extends: sections/clients
+    headline: Clients

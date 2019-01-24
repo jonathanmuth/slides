@@ -1,0 +1,19 @@
+title: Project
+
+columns:
+  - width: 1/4
+    sections:
+      drafts:
+        extends: sections/slides
+        headline: Drafts
+        status: draft
+      unlisted:
+        extends: sections/slides
+        headline: In Review
+        status: unlisted
+  - width: 3/4
+    sections:
+      listed:
+        extends: sections/slides
+        headline: Published
+        status: listed

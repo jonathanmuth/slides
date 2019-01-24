@@ -1,0 +1,11 @@
+type: pages
+headline: Projects
+template: project
+size: small
+layout: cards
+info: "{{ page.date.toDate('d.m.Y') }}"
+empty: No articles yet
+image:
+  query: page.projectcover.toFile
+  cover: true
+  ratio: 1/1
